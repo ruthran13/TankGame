@@ -1,0 +1,71 @@
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\background.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameBackground.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\brickWall.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\stoneWall.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\water.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\tank.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\PlayerStatistics.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\ExitButton.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\consoleS.exe
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\consoleS.pdb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\consoleS.exe
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\consoleS.pdb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\JoinButton.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\exitButton2.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\tryAgain.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\coinPile.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\coinPile2.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\healthPack.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\healthPack2.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\coinPile3.xnb
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\consoleS.exe
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\background.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\brickWall.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\stoneWall.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\water.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\tank.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameBackground.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\exitButton.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\JoinButton.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\exitButton2.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\tryAgain.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\coinPile.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\coinPile2.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\healthPack.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\healthPack2.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\coinPile3.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\PlayerStatistics.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\consoleS.exe
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\consoleS.pdb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\consoleS.pdb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\bin\x86\Debug\Content\brickWallNew.xnb
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.csprojResolveAssemblyReference.cache
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\background.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\brickWall.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\stoneWall.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\water.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\tank.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameBackground.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\exitButton.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\JoinButton.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\exitButton2.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\tryAgain.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\coinPile.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\coinPile2.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\healthPack.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\healthPack2.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\coinPile3.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bullet.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\brickWallNew.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\Content\PlayerStatistics.xnb
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\consoleS.exe
+D:\Thanuja\Shooter\Shooter\Shooter\bin\x86\Debug\consoleS.pdb
+D:\Thanuja\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.csprojResolveAssemblyReference.cache
+D:\Thanuja\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Thanuja\Shooter\Shooter\Shooter\obj\x86\Debug\consoleS.exe
+D:\Thanuja\Shooter\Shooter\Shooter\obj\x86\Debug\consoleS.pdb

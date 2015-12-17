@@ -1,0 +1,3 @@
+C:\Users\Sasikala\Documents\Visual Studio 2010\Projects\Shooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sasikala Kottegoda\Documents\Visual Studio 2010\Projects\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+D:\Thanuja\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
